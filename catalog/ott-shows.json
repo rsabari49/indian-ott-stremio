@@ -1,0 +1,10 @@
+{
+  "metas": [
+    {
+      "id": "ott-show-1",
+      "name": "Sample English OTT Show",
+      "type": "series",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sample2.jpg"
+    }
+  ]
+}
