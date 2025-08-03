@@ -1,0 +1,25 @@
+{
+  "id": "community.indian-ott-stremio",
+  "version": "1.0.0",
+  "name": "Indian OTT Movies & Shows",
+  "description": "Latest OTT-released Tamil, English & Indian regional movies and TV shows scraped from JustWatch",
+  "resources": ["catalog"],
+  "types": ["movie", "series"],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "ott-movies",
+      "name": "Latest OTT Movies"
+    },
+    {
+      "type": "series",
+      "id": "ott-shows",
+      "name": "Latest OTT TV Shows"
+    }
+  ],
+  "idPrefixes": ["tt"],
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/7/75/Indian_Ott_Logo.png",
+  "behaviorHints": {
+    "configurationRequired": false
+  }
+}
