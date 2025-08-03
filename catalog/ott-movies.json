@@ -4,7 +4,8 @@
       "id": "ott-movie-1",
       "name": "Sample Tamil OTT Movie",
       "type": "movie",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sample.jpg"
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sample.jpg",
+      "released": "2025-07-31"
     }
   ]
 }
